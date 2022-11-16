@@ -36,6 +36,7 @@ body {
 .accordion {
   width: 350px;
   height: 35px;
+  font-family: 'Kumbh Sans';
   font-size: 14px;
   text-align: left;
   color: var(--b2);
@@ -43,6 +44,9 @@ body {
   border: none;
   outline: none;
   cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .divider {
