@@ -14,4 +14,15 @@ html {
 body {
   height: 100vh;
   background: var(--bg);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.container {
+  height: 509px;
+  width: 920px;
+  border-radius: 23px;
+  box-shadow: 0 50px 50px -20px rgb(53, 18, 122, 0.5);
+  background-color: white;
 }
