@@ -44,3 +44,9 @@ body {
   outline: none;
   cursor: pointer;
 }
+
+.divider {
+  width: 350px;
+  height: 1px;
+  background-color: var(--div);
+}
