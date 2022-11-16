@@ -35,7 +35,7 @@ body {
 
 .accordion {
   width: 350px;
-  height: 35px;
+  height: 51px;
   font-family: 'Kumbh Sans';
   font-size: 14px;
   text-align: left;
@@ -61,6 +61,8 @@ body {
 
 .panel {
   width: 319px;
+  display: none;
+  overflow: hidden;
 }
 
 .para {
