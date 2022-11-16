@@ -26,3 +26,9 @@ body {
   box-shadow: 0 50px 50px -20px rgb(53, 18, 122, 0.5);
   background-color: white;
 }
+
+.title {
+  font-size: 32px;
+  font-weight: bold;
+  color: var(--b1);
+}
