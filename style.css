@@ -49,6 +49,10 @@ body {
   justify-content: space-between;
 }
 
+.accordion:hover {
+  color: var(--arr);
+}
+
 .divider {
   width: 350px;
   height: 1px;
