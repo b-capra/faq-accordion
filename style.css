@@ -27,7 +27,15 @@ body {
   background-color: white;
   display: flex;
   align-items: center;
-  justify-content: space-around;
+  justify-content: space-between;
+}
+
+.img {
+  margin-left: -103px;
+}
+
+.container {
+  margin-right: 95px;
 }
 
 .title {
