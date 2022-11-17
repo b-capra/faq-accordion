@@ -35,11 +35,14 @@ body {
 }
 
 .container {
+  height: 509px;
   margin-right: 95px;
 }
 
 .title {
   font-size: 32px;
+  margin-top: 65px;
+  margin-bottom: 35px;
   font-weight: bold;
   color: var(--b1);
 }
