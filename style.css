@@ -59,6 +59,10 @@ body {
   font-weight: bold;
 }
 
+.active:hover {
+  color: var(--b1);
+}
+
 .divider {
   width: 350px;
   height: 1px;
