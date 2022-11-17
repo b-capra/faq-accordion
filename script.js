@@ -1,8 +1,11 @@
 var accs = document.querySelectorAll(".accordion");
 
-for (let i = 0; i < accs.length; i++) {
-  accs[i].addEventListener('click', function() {
+accs.forEach((acc) => {
+  acc.addEventListener('click', function() {
     this.classList.toggle('active');
+
+    let arrow = acc.querySelector('img');
+    arrow.classList.toggle('up');
 
     var panel = this.nextElementSibling;
     if (panel.style.maxHeight) {
@@ -11,4 +14,4 @@ for (let i = 0; i < accs.length; i++) {
       panel.style.maxHeight = panel.scrollHeight + 'px';
     }
   });
-}
+});
