@@ -19,12 +19,15 @@ body {
   justify-content: center;
 }
 
-.container {
+.card {
   height: 509px;
   width: 920px;
   border-radius: 23px;
   box-shadow: 0 50px 50px -20px rgb(53, 18, 122, 0.5);
   background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
 }
 
 .title {
