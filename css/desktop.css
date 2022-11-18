@@ -3,4 +3,17 @@
   height: 509px;
   width: 920px;
  }
+
+ .accordion {
+  width: 350px;
+  height: 52px;
+ }
+
+ .active {
+  height: 45px;
+ }
+
+ .divider {
+  width: 350px;
+ }
 }
