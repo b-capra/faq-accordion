@@ -3,4 +3,13 @@
     height: 535px;
     width: 327px;
   }
+
+  .title {
+    text-align: center;
+  }
+
+  .accordion {
+    width: 279px;
+    height: 52px;
+  }
 }
