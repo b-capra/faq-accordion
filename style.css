@@ -42,14 +42,14 @@ body {
 .title {
   font-size: 32px;
   margin-top: 65px;
-  margin-bottom: 35px;
+  margin-bottom: 18px;
   font-weight: bold;
   color: var(--b1);
 }
 
 .accordion {
   width: 350px;
-  height: 51px;
+  height: 52px;
   font-family: 'Kumbh Sans';
   font-size: 14px;
   text-align: left;
@@ -92,6 +92,7 @@ body {
 
 .para {
   font-size: 12px;
+  margin-top: 0;
   color: var(--b3);
 }
 
