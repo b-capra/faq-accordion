@@ -1,3 +1,6 @@
 @media only screen and (min-width: 413px) {
-
+ .card {
+  height: 509px;
+  width: 920px;
+ }
 }
