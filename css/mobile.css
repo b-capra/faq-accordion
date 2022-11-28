@@ -16,4 +16,16 @@
   .divider {
     width: 279px 
   }
+
+  .desktop-img {
+    display: none;
+  }
+
+  .mobile-img {
+    margin-top: -108px;
+  }
+
+  .card {
+    flex-direction: column;
+  }
 }
