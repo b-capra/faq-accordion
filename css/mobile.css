@@ -2,6 +2,20 @@
   .card {
     height: 535px;
     width: 327px;
+    flex-direction: column;
+    justify-content: flex-start;
+  }
+
+  .desktop-img {
+    display: none;
+  }
+
+  .mobile-img {
+    margin-top: -108px;
+  }
+
+  .container {
+    height: 355px;
   }
 
   .title {
@@ -25,23 +39,6 @@
   .divider {
     width: 279px;
     margin: 0 auto;
-  }
-
-  .desktop-img {
-    display: none;
-  }
-
-  .mobile-img {
-    margin-top: -108px;
-  }
-
-  .card {
-    flex-direction: column;
-    justify-content: flex-start;
-  }
-  
-  .container {
-    height: 355px;
   }
 
   .panel {
