@@ -24,4 +24,9 @@
  .mobile-img {
   display: none;
  }
+
+ .container {
+  height: 509px;
+  margin-right: 95px;
+ }
 }

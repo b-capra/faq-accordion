@@ -28,11 +28,6 @@ body {
   justify-content: space-between;
 }
 
-.container {
-  height: 509px;
-  margin-right: 95px;
-}
-
 .title {
   font-size: 32px;
   margin-top: 65px;

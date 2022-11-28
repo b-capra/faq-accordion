@@ -28,4 +28,8 @@
   .card {
     flex-direction: column;
   }
+  
+  .container {
+    height: 355px;
+  }
 }
