@@ -49,6 +49,7 @@ body {
   font-family: 'Kumbh Sans';
   font-size: 14px;
   text-align: left;
+  padding: 1px 16px 1px 0;
   color: var(--b2);
   background-color: white;
   transition: color 0.2s, height 0.2s ease-out;
