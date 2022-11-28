@@ -18,7 +18,7 @@ Users should be able to:
 
 ### Links
 
-- Solution: 
+- Solution: [Frontend Mentor](https://www.frontendmentor.io/solutions/faq-accordion-with-animated-transitions-NVXQzi9RvO)
 - Live Site: [bcapra.com](https://www.bcapra.com/faq-accordion/)
 
 ## Author
