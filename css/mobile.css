@@ -18,6 +18,10 @@
     padding: 1px 0px;
   }
 
+  .active {
+    height: 45px;
+  }
+
   .divider {
     width: 279px;
     margin: 0 auto;
