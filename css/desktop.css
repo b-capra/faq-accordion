@@ -16,4 +16,12 @@
  .divider {
   width: 350px;
  }
+
+ .desktop-img {
+  margin-left: -103px;
+}
+
+ .mobile-img {
+  display: none;
+ }
 }
