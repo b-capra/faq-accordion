@@ -25,22 +25,17 @@ body {
   background-color: white;
   display: flex;
   align-items: center;
-  justify-content: space-between;
 }
 
 .title {
   font-size: 32px;
-  margin-top: 65px;
-  margin-bottom: 18px;
   font-weight: bold;
   color: var(--b1);
 }
 
 .accordion {
   font-family: 'Kumbh Sans';
-  font-size: 14px;
   text-align: left;
-  padding: 1px 16px 1px 0;
   color: var(--b2);
   background-color: white;
   transition: color 0.2s, height 0.2s ease-out;
@@ -81,6 +76,7 @@ body {
   font-size: 12px;
   margin-top: 0;
   margin-bottom: 16px;
+  line-height: 18px;
   color: var(--b3);
 }
 

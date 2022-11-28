@@ -5,16 +5,22 @@
   }
 
   .title {
+    margin-top: 24px;
+    margin-bottom: 12px;
     text-align: center;
   }
 
   .accordion {
     width: 279px;
     height: 52px;
+    margin: 0 auto;
+    font-size: 13px;
+    padding: 1px 0px;
   }
 
   .divider {
-    width: 279px 
+    width: 279px;
+    margin: 0 auto;
   }
 
   .desktop-img {
@@ -27,9 +33,14 @@
 
   .card {
     flex-direction: column;
+    justify-content: flex-start;
   }
   
   .container {
     height: 355px;
+  }
+
+  .panel {
+    width: 279px;
   }
 }

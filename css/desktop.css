@@ -4,9 +4,16 @@
   width: 920px;
  }
 
+ .title {
+  margin-top: 65px;
+  margin-bottom: 18px;
+ }
+
  .accordion {
   width: 350px;
   height: 52px;
+  padding: 1px 16px 1px 0;
+  font-size: 14px;
  }
 
  .active {
@@ -23,6 +30,10 @@
 
  .mobile-img {
   display: none;
+ }
+
+ .card {
+  justify-content: space-between;
  }
 
  .container {
