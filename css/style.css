@@ -12,11 +12,12 @@ html {
 }
 
 body {
-  height: 100vh;
+  height: 99vh;
   background: var(--bg);
   display: flex;
   align-items: center;
   justify-content: center;
+  flex-direction: column;
 }
 
 .card {
@@ -25,6 +26,7 @@ body {
   background-color: white;
   display: flex;
   align-items: center;
+  margin: auto;
 }
 
 .title {
@@ -86,4 +88,14 @@ body {
 
 .up {
   rotate: 180deg;
+}
+
+.attribution {
+  font-size: 11px;
+  text-align: center;
+  color: var(--b1);
+}
+
+.attribution a {
+  color: var(--arr);
 }
