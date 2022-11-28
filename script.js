@@ -15,3 +15,9 @@ accs.forEach((acc) => {
     }
   });
 });
+
+function setClass(els, className, fnName) {
+  els.forEach((el) => {
+    el.classList[fnName](className);
+  });
+};
